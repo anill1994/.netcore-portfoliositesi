@@ -1,0 +1,30 @@
+@model ContactListViewModel
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Subject</th>
+            <th>Message</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Contacts)
+        {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Email</td>
+            <td>@item.Subject</td>
+            <td>@item.Message</td>
+            <td>
+                <form action="/admin/contactdelete" method="POST" style="display: inline;">
+                    <input type="hidden" name="ContactId" value="@item.ContactId">
+                    <button type="submit" class="btn btn-danger btn-sm">Sil</button>
+                </form>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>

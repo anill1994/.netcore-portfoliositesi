@@ -1,0 +1,36 @@
+@model ResumeListViewModel
+<br>
+<table class="table table-bordered mt-2">
+<a class="btn btn-primary mb-2" href="/admin/ResumeCreate">Create Resume</a>
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Company</th>
+            <th style="width: 320px;">Description</th>
+            <th>Job</th>
+            <th>StartDate</th>
+            <th>FinishDate</th>
+            <th style="width: 150px;"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Resumes)
+        {
+        <tr>
+            <td>@item.Title</td>
+            <td>@item.Company</td>
+            <td>@item.Description</td>
+            <td>@item.Job</td>
+            <td>@item.StartDate</td>
+            <td>@item.FinishDate</td>
+            <td>
+                <a href="/admin/ResumeUpdate/@item.ResumeId" class="btn btn-warning btn-sm">Güncelle</a>
+                <form action="/admin/resumedelete" method="POST" style="display: inline;">
+                    <input type="hidden" name="ResumeId" value="@item.ResumeId">
+                    <button type="submit" class="btn btn-danger btn-sm">Sil</button>
+                </form>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>

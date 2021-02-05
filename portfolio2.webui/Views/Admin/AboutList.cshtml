@@ -1,0 +1,40 @@
+@model AboutListViewModel
+<br>
+<table class="table table-bordered mt-2">
+<a class="btn btn-primary mb-2" href="/admin/AboutCreate">Create About</a>
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>FullName</th>
+            <th>Image</th>
+            <th>Job</th>
+            <th>BirthDay</th>
+            <th>Description</th>
+            <th style="width: 75px;">Website</th>
+            <th style="width: 75px;">Email</th>
+            <th style="width: 200px;"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Abouts)
+        {
+        <tr>
+            <td>@item.Title</td>
+            <td>@item.FullName</td>
+            <td>@item.Image</td>
+            <td>@item.Job</td>
+            <td>@item.BirthDay.ToString("d.MMM.yyyy")</td>
+            <td>@item.Description</td>
+            <td>@item.Website</td>
+            <td>@item.Email</td>
+            <td>
+                <a href="/admin/aboutupdate/@item.AboutId" class="btn btn-primary btn-sm">Güncelle</a>
+                <form action="/admin/aboutdelete" method="POST" style="display: inline;">
+                  <input type="hidden" name="id" value="@item.AboutId">
+                    <button class="btn btn-danger btn-sm" type="submit">Sil</button>
+                </form>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,12 @@
+C:\Users\anil_\OneDrive\Masaüstü\portfolio2\protfolio2\portfolio.data\bin\Debug\netstandard2.1\portfolio.entity.dll
+C:\Users\anil_\OneDrive\Masaüstü\portfolio2\protfolio2\portfolio.data\obj\Debug\netstandard2.1\portfolio.data.csprojAssemblyReference.cache
+C:\Users\anil_\OneDrive\Masaüstü\portfolio2\protfolio2\portfolio.data\obj\Debug\netstandard2.1\portfolio.data.AssemblyInfoInputs.cache
+C:\Users\anil_\OneDrive\Masaüstü\portfolio2\protfolio2\portfolio.data\obj\Debug\netstandard2.1\portfolio.data.AssemblyInfo.cs
+C:\Users\anil_\OneDrive\Masaüstü\portfolio2\protfolio2\portfolio.data\bin\Debug\netstandard2.1\portfolio.data.deps.json
+C:\Users\anil_\OneDrive\Masaüstü\portfolio2\protfolio2\portfolio.data\bin\Debug\netstandard2.1\portfolio.data.dll
+C:\Users\anil_\OneDrive\Masaüstü\portfolio2\protfolio2\portfolio.data\bin\Debug\netstandard2.1\portfolio.data.pdb
+C:\Users\anil_\OneDrive\Masaüstü\portfolio2\protfolio2\portfolio.data\bin\Debug\netstandard2.1\portfolio.entity.pdb
+C:\Users\anil_\OneDrive\Masaüstü\portfolio2\protfolio2\portfolio.data\obj\Debug\netstandard2.1\portfolio.data.csproj.CoreCompileInputs.cache
+C:\Users\anil_\OneDrive\Masaüstü\portfolio2\protfolio2\portfolio.data\obj\Debug\netstandard2.1\portfolio.data.csproj.CopyComplete
+C:\Users\anil_\OneDrive\Masaüstü\portfolio2\protfolio2\portfolio.data\obj\Debug\netstandard2.1\portfolio.data.dll
+C:\Users\anil_\OneDrive\Masaüstü\portfolio2\protfolio2\portfolio.data\obj\Debug\netstandard2.1\portfolio.data.pdb

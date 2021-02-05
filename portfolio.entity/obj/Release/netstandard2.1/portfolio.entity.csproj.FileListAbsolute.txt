@@ -1,0 +1,9 @@
+C:\Users\anil_\OneDrive\Masaüstü\portfolio2\protfolio2\portfolio.entity\bin\Release\netstandard2.1\portfolio.entity.deps.json
+C:\Users\anil_\OneDrive\Masaüstü\portfolio2\protfolio2\portfolio.entity\bin\Release\netstandard2.1\portfolio.entity.dll
+C:\Users\anil_\OneDrive\Masaüstü\portfolio2\protfolio2\portfolio.entity\bin\Release\netstandard2.1\portfolio.entity.pdb
+C:\Users\anil_\OneDrive\Masaüstü\portfolio2\protfolio2\portfolio.entity\obj\Release\netstandard2.1\portfolio.entity.csprojAssemblyReference.cache
+C:\Users\anil_\OneDrive\Masaüstü\portfolio2\protfolio2\portfolio.entity\obj\Release\netstandard2.1\portfolio.entity.AssemblyInfoInputs.cache
+C:\Users\anil_\OneDrive\Masaüstü\portfolio2\protfolio2\portfolio.entity\obj\Release\netstandard2.1\portfolio.entity.AssemblyInfo.cs
+C:\Users\anil_\OneDrive\Masaüstü\portfolio2\protfolio2\portfolio.entity\obj\Release\netstandard2.1\portfolio.entity.csproj.CoreCompileInputs.cache
+C:\Users\anil_\OneDrive\Masaüstü\portfolio2\protfolio2\portfolio.entity\obj\Release\netstandard2.1\portfolio.entity.dll
+C:\Users\anil_\OneDrive\Masaüstü\portfolio2\protfolio2\portfolio.entity\obj\Release\netstandard2.1\portfolio.entity.pdb

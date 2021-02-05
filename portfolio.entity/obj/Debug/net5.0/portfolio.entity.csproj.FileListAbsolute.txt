@@ -1,0 +1,12 @@
+C:\Users\anil_\OneDrive\Masaüstü\portfolio2\protfolio2\portfolio.entity\bin\Debug\net5.0\portfolio.entity.deps.json
+C:\Users\anil_\OneDrive\Masaüstü\portfolio2\protfolio2\portfolio.entity\bin\Debug\net5.0\portfolio.entity.dll
+C:\Users\anil_\OneDrive\Masaüstü\portfolio2\protfolio2\portfolio.entity\bin\Debug\net5.0\ref\portfolio.entity.dll
+C:\Users\anil_\OneDrive\Masaüstü\portfolio2\protfolio2\portfolio.entity\bin\Debug\net5.0\portfolio.entity.pdb
+C:\Users\anil_\OneDrive\Masaüstü\portfolio2\protfolio2\portfolio.entity\obj\Debug\net5.0\portfolio.entity.csprojAssemblyReference.cache
+C:\Users\anil_\OneDrive\Masaüstü\portfolio2\protfolio2\portfolio.entity\obj\Debug\net5.0\portfolio.entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anil_\OneDrive\Masaüstü\portfolio2\protfolio2\portfolio.entity\obj\Debug\net5.0\portfolio.entity.AssemblyInfoInputs.cache
+C:\Users\anil_\OneDrive\Masaüstü\portfolio2\protfolio2\portfolio.entity\obj\Debug\net5.0\portfolio.entity.AssemblyInfo.cs
+C:\Users\anil_\OneDrive\Masaüstü\portfolio2\protfolio2\portfolio.entity\obj\Debug\net5.0\portfolio.entity.csproj.CoreCompileInputs.cache
+C:\Users\anil_\OneDrive\Masaüstü\portfolio2\protfolio2\portfolio.entity\obj\Debug\net5.0\portfolio.entity.dll
+C:\Users\anil_\OneDrive\Masaüstü\portfolio2\protfolio2\portfolio.entity\obj\Debug\net5.0\ref\portfolio.entity.dll
+C:\Users\anil_\OneDrive\Masaüstü\portfolio2\protfolio2\portfolio.entity\obj\Debug\net5.0\portfolio.entity.pdb

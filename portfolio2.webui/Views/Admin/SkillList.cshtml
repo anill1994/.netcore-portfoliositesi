@@ -1,0 +1,28 @@
+@model SkillListViewModel
+<br>
+<table class="table table-bordered mt-2">
+    <a href="/admin/SkillCreate" class="btn btn-primary mb-2">Create Skill</a>
+    <thead>
+        <tr>
+            <th>SkillName</th>
+            <th>SkillRate</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Skills)
+        {
+        <tr>
+            <td>@item.SkillName</td>
+            <td>@item.SkillRate</td>
+            <td>
+                <a href="/admin/skillupdate/@item.SkillId" class="btn btn-warning btn-sm">Güncelle</a>
+                <form action="/admin/skilldelete" method="POST" style="display: inline;">
+                    <input type="hidden" name="skillId" value="@item.SkillId">
+                    <button type="submit" class="btn btn-danger btn-sm">Sil</button>
+                </form>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
